@@ -9,7 +9,7 @@ export const SEQUENCE = {
   startAt: 0.25,
 };
 
-export const BRAND = "Pluczenik";
+export const BRAND = "Rough Diamonds";
 
 // export const NAV = [
 //   { label: "Rough", href: "#rough" },

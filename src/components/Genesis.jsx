@@ -71,7 +71,7 @@ export default function Genesis() {
                 </div>
                 <h4 className="font-headline-sm text-headline-sm text-primary mb-space-sm">Seventy-Seven Years of Sovereign Allocations</h4>
                 <p className="font-body-md text-body-md text-on-surface-variant leading-relaxed">
-                  As one of the world’s enduring premier De Beers Sightholders, Maison Pluczenik commands institutional-scale access to the rarest gem-quality runs. Our rough selection prioritizes pristine structural habit, avoiding post-formation shearing and ensuring optimal light velocity through uncut rough crystal cores.
+                  As one of the world’s enduring premier De Beers Sightholders, Rough DIamonds commands institutional-scale access to the rarest gem-quality runs. Our rough selection prioritizes pristine structural habit, avoiding post-formation shearing and ensuring optimal light velocity through uncut rough crystal cores.
                 </p>
               </div>
               <div className="mt-space-lg pt-space-md space-y-space-sm">

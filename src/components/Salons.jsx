@@ -130,7 +130,7 @@ export default function Salons() {
                 <div className="flex items-center gap-space-sm pt-space-xs">
                   <input id="nda-agree" required type="checkbox" className="w-4 h-4 rounded bg-surface-container-lowest text-primary focus:ring-0 cursor-pointer" />
                   <label htmlFor="nda-agree" className="font-body-sm text-body-sm text-on-surface-variant cursor-pointer">
-                    I agree to bilateral confidentiality protocols under Maison Pluczenik Sovereign Sightholder compliance rules.
+                    I agree to bilateral confidentiality protocols under Rough DIAmonds Sovereign Sightholder compliance rules.
                   </label>
                 </div>
                 <button type="submit"

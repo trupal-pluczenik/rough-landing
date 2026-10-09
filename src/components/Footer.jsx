@@ -35,7 +35,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-gutter">
           <div className="lg:col-span-4 flex flex-col justify-between space-y-space-md">
             <div>
-              <span className="font-headline-md text-headline-md text-primary tracking-wider uppercase block">Maison Pluczenik</span>
+              <span className="font-headline-md text-headline-md text-primary tracking-wider uppercase block">Rough Diamonds</span>
               <p className="font-body-md text-body-md text-on-surface-variant mt-space-sm max-w-sm">
                 Sightholder to the world's most sovereign diamond sources since 1948. Architecting absolute rarity through geological custody, laser-refracted geometry, and immutable provenance.
               </p>
@@ -81,7 +81,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-space-xl pt-space-lg flex flex-col md:flex-row justify-between items-center gap-space-md text-on-surface-variant font-label-sm text-label-sm uppercase tracking-widest">
-          <p>© 1948–{new Date().getFullYear()} Maison Pluczenik. All Global Rights Reserved. Kimberlite Custody Assurance.</p>
+          <p>© 1948–{new Date().getFullYear()} Rough Diamonds. All Global Rights Reserved. Kimberlite Custody Assurance.</p>
           <div className="flex gap-space-md">
             <a href="#" className="hover:text-primary transition-colors">Ethical Disclosures</a>
             <a href="#" className="hover:text-primary transition-colors">Custody Protocols</a>

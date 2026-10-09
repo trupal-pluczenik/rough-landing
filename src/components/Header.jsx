@@ -13,7 +13,7 @@ export default function Header() {
     <header className="fixed top-0 inset-x-0 z-50 bg-surface/75 backdrop-blur-2xl shadow-[0_1px_16px_rgba(0,0,0,0.35)]">
       <div className="h-20 w-full px-margin flex items-center justify-between">
         <div className="flex flex-col">
-          <a href="#" className="font-headline-sm text-headline-sm text-primary tracking-widest uppercase">Pluczenik</a>
+          <a href="#" className="font-headline-sm text-headline-sm text-primary tracking-widest uppercase">Rough</a>
           <span className="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-widest">
             De Beers Sightholder Since 1948
           </span>
